@@ -22,12 +22,12 @@
 	object-position: center;
 }
 .portfolio-image:not(:last-child) {
-	margin-bottom: 39px;
+	margin-bottom: 2.43em;
 }
 .portfolio-description {
 	font-weight: 500;
 	font-size: clamp(0.875rem, 0.705rem + 0.86vw, 1.125rem);
 }
 .portfolio-description:not(:last-child) {
-	margin-bottom: 95px;
+	margin-bottom: 5.93em;
 }
