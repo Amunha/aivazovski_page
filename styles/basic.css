@@ -61,12 +61,11 @@ h6 {
 body {
 	font-family: "Roboto";
 	background-color: var(--bg-main);
-	font-size: 18px;
+	font-size: 1.125rem;
 }
-
 
 .container {
 	margin: 0 auto;
-	max-width: 970px;
+	max-width: 61.25rem;
 	padding: 0 15px;
 }
