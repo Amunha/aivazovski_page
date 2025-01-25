@@ -1,0 +1,30 @@
+.history {
+	padding: 64px 0px 70px 0px;
+	text-align: center;
+	color: var(--color-black);
+}
+.history-title {
+	font-weight: 700;
+	font-size: 2.125rem;
+	margin-bottom: 50px;
+}
+.history-image {
+	position: relative;
+	padding: 0px 0px 68.94% 0px;
+}
+.history-image:not(:last-child) {
+	margin-bottom: 30px;
+}
+.history-img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+.history-discrioption {
+	font-weight: 500;
+	font-size: clamp(0.875rem, 0.705rem + 0.86vw, 1.125rem);
+}
