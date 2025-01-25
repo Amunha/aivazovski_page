@@ -1,0 +1,29 @@
+.about {
+	background-color: var(--bg-main-grey);
+	padding: 57px 0px 98px 0px;
+	text-align: center;
+	font-size: clamp(0.875rem, 0.705rem + 0.86vw, 1.125rem);
+}
+.about-title {
+	margin-bottom: 42px;
+	font-size: 2.125rem;
+	color: var(--color-black);
+	font-weight: 700;
+}
+.about-subtitle-ru, .about-subtitle-en {
+	font-weight: 500;
+	max-width: 44.0625rem;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.about-description-ru, .about-description-en {
+	max-width: 48.75rem;
+	margin: 0 auto;
+	text-align: justify;
+}
+.divider {
+	height: 1px;
+	width: 60%;
+	background-color: var(--font-color-grey);
+	margin: 20px auto 20px auto;
+}
